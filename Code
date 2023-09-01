@@ -7,8 +7,8 @@ if height >= 120:
   if age >= 18:
     print("Your ticket is $12. Thanks!")
   elif age >= 12:
-      print("Your ticket is $7. Thanks!")
+    print("Your ticket is $7. Thanks!")
   elif age < 12:
-      print("Your ticket is $5. Thanks!")
+    print("Your ticket is $5. Thanks!")
 else:
   print("Unfortunately, you are not tall enough to ride.")
